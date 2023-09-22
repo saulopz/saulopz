@@ -1,6 +1,6 @@
 Hi, I'm @saulopz and my name is Saulo Popov Zambiasi. 
 
-I am a professor of the Computer Science course at the University of Southern Santa Catarina.
+I am a professor of the Computer Science course at the University of Southern Santa Catarina and CESUSC.
 
 Over the years I have worked as a teacher in subjects such as: Programming in Java, Python, C/C++, Arduino, Kotlin, PHP, etc., Computer Graphics, Programming for Mobile Devices, Software Engineering, Data Structure, Artificial Intelligence, Networks Artificial Neurals, Development of Digital Games, Mathematics and Physics for Games, Parallel and Distributed Programming, Distributed Systems, Operating Systems, Internet Systems, Databases, Linux, Cinema.
 
