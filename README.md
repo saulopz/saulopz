@@ -5,18 +5,18 @@ I’m passionate about teaching, research, and software development.
 
 ### Teaching
 I have taught a wide range of subjects, including:
-- Programming (Java, Python, C/C++, Kotlin, PHP, Arduino, Flutter, Object Pascal)
+- Programming (C/C++, Go, Python, Kotlin, Java, PHP, Arduino, Flutter, Object Pascal, etc.)
 - Artificial Intelligence & Artificial Neural Networks
 - Data Structures and Algorithms
 - Digital Games (Development, Math & Physics for Games)
 - Software Engineering & Distributed Systems
 - Computer Graphics, Operating Systems, Databases, Linux
-- Cinema and Digital Art
+- Independent Cinema and Cyberart
 
 ### Research
 - Published in conferences, journals, and book chapters.  
-- Supervised research projects and theses at undergraduate, specialization, and master's levels.  
-- Research areas: **Artificial Intelligence, Virtual Assistants, Digital Games, Automation Systems, and Cyberart**.  
+- Supervised research projects and theses at undergraduate, specialization, master's and doctoral levels.  
+- Research areas: **Artificial Intelligence, Digital Assistants, Digital Games, Automation Systems, and Cyberart**.  
 
 ### Development
 - 25+ years of experience in software development.  
