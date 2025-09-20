@@ -3,8 +3,12 @@
 <div align="center">
   <img src="hacking_the_world_01.jpg" alt="H4k!nG t3h W0rLD" width="500">
 </div>
+<br>
+<div align="center">
+  <img src="line.png" alt="H4k!nG t3h W0rLD" width="700">
+</div>
 
----
+<div class="tenor-gif-embed" data-postid="22582480" data-share-method="host" data-aspect-ratio="8.945" data-width="100%"><a href="https://tenor.com/view/line-green-divider-gif-22582480">Line Green Sticker</a>from <a href="https://tenor.com/search/line-stickers">Line Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 I'm **Saulo Popov Zambiasi**, professor of Computer Science at **Unisul** and **Unicesusc** (Brazil).  
 I’m passionate about teaching, research, and software development.
@@ -35,6 +39,10 @@ I have taught a wide range of subjects, including:
     <li>Worked with C/C++, Python, Go, Java, Kotlin, PHP, Flutter, Godot, and more.</li>
     <li>Creator of the <strong>Arisa Nest Virtual Assistant</strong> platform (PaaS).</li>
   </ul>
+</div>
+
+<div align="center">
+  <img src="line2.png" alt="H4k!nG t3h W0rLD" width="700">
 </div>
 
 <!---
