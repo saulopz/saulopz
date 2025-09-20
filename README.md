@@ -1,8 +1,8 @@
 # Hi, I'm Saulo 👋
 
-<p style="text-align: center;">
-  <img src="hacking_the_world_01.jpg" alt="H4k!nG t3h W0rLD" width="500" />
-</p>
+<div align="center">
+  <img src="hacking_the_world_01.jpg" alt="H4k!nG t3h W0rLD" width="500">
+</div>
 
 ---
 
