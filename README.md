@@ -8,8 +8,6 @@
   <img src="line.png" alt="H4k!nG t3h W0rLD" width="700">
 </div>
 
-<div class="tenor-gif-embed" data-postid="22582480" data-share-method="host" data-aspect-ratio="8.945" data-width="100%"><a href="https://tenor.com/view/line-green-divider-gif-22582480">Line Green Sticker</a>from <a href="https://tenor.com/search/line-stickers">Line Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 I'm **Saulo Popov Zambiasi**, professor of Computer Science at **Unisul** and **Unicesusc** (Brazil).  
 I’m passionate about teaching, research, and software development.
 
