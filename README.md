@@ -39,6 +39,8 @@ I have taught a wide range of subjects, including:
   </ul>
 </div>
 
+> I seek retrofuturism on the digital frontier — the nostalgia for a future where the vast digital network could have fulfilled its promise. A world of hope, shared knowledge, and people helping each other toward a more just future.
+
 <div align="center">
   <img src="line2.png" alt="H4k!nG t3h W0rLD" width="700">
 </div>
