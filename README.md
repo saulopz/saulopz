@@ -33,7 +33,7 @@ I have taught a wide range of subjects, including:
   </ul>
   <h3>Development</h3>
   <ul>
-    <li>25+ years of experience in software development.</li>
+    <li>30+ years of experience in software development.</li>
     <li>Worked with C/C++, Python, Go, Java, Kotlin, PHP, Flutter, Godot, and more.</li>
     <li>Creator of the <strong>Arisa Nest Virtual Assistant</strong> platform (PaaS).</li>
   </ul>
