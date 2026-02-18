@@ -1,5 +1,16 @@
 # Hi, I'm Saulo 👋
 
+> [!IMPORTANT]
+> **MIGRATION STATUS: Towards Digital Sovereignty** 🚩
+>
+> As an advocate for **Free Software** and **Multilateral Collaboration**, I am migrating my repositories to **Codeberg**.
+>
+> This decision is driven by my refusal to allow my code to be mined and used by proprietary AI tools (such as Microsoft Copilot) without my explicit consent. I believe in the internet as a space for shared knowledge, not as raw material for extractive capital.
+>
+> This profile will be maintained temporarily, but the "source of truth" for my code now resides in a free territory. This account will be deleted soon.
+>
+> 🌐 **Follow my work at:** [codeberg.org/saulopz](https://codeberg.org/saulopz)
+
 <!-- <div align="center">
   <img src="hacking_the_world_01.jpg" alt="H4k!nG t3h W0rLD" width="500">
 </div> -->
