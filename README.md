@@ -6,18 +6,22 @@
   <img src="line.png" alt="H4k!nG t3h W0rLD" width="700">
 </div>
 
-I'm **Saulo Popov Zambiasi**, professor of Computer Science at **Unisul** and **Unicesusc** (Brazil).  
-I’m passionate about teaching, research, and software development.
+<div>
+  <p>I'm <strong>Saulo Popov Zambiasi</strong>, professor of Computer Science at <strong>Unisul</strong> and <strong>Unicesusc</strong> (Brazil).<br>
+  I’m passionate about teaching, research, and software development.</p>
 
-### Teaching
-I have taught a wide range of subjects, including:
-- Programming (C/C++, Go, Python, Kotlin, Java, PHP, Arduino, Flutter, Object Pascal, etc.)
-- Artificial Intelligence & Artificial Neural Networks
-- Data Structures and Algorithms
-- Digital Games (Development, Math & Physics for Games)
-- Software Engineering & Distributed Systems
-- Computer Graphics, Operating Systems, Databases, Linux
-- Independent Cinema and Cyberart
+  <h3>Teaching</h3>
+  I have taught a wide range of subjects, including:
+  <ul>
+    <li>Programming (C/C++, Go, Python, Kotlin, Java, PHP, Arduino, Flutter, Object Pascal, etc.)</li>
+    <li>Artificial Intelligence & Artificial Neural Networks</li>
+    <li>Data Structures and Algorithms</li>
+    <li>Digital Games (Development, Math & Physics for Games)</li>
+    <li>Software Engineering & Distributed Systems</li>
+    <li>Computer Graphics, Operating Systems, Databases, Linux</li>
+    <li>Independent Cinema and Cyberart</li>
+  </ul>
+</div>
 
 <div>
   <img src="hacking_the_world_02.jpg" alt="Minha foto" width="200" align="right" style="margin-left:15px;"/>
